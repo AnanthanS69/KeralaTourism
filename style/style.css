@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#logo{
+    height: 80px;
+    width:200px;
+    margin-left: 110px;
+}
+.carousel-inner{
+    height: 500px;
+} 
+.row{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+#tourism{
+    text-align: center;
+}
+#experience{
+    font-size:xx-large;
+    text-align: center;
+}
+
+.col-sm{
+    color: black;
+    width: 150px;
+}
+.col-sm>img{
+    width: 250px;
+    height: 150px;
+}
+#hr-1{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:hover{
+    color: blue;
+}
+p{
+    font-size:xx-large;
+    text-align: center;
+}
+#planning{
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 100px;
+    width: 70%;
+    text-align: center;
+    color: black;
+}
+#planning img{
+    width: 70px;
+    height: 70px;
+}
+#planning td{
+    border-left: 1px solid rgb(155, 155, 155);
+}
+#row-3{
+    background-color: rgb(241, 241, 241);
+}
+#kerala-brief{
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: large;
+    text-justify: auto;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+
+}
+footer{
+    height: 80px;
+    background-color: rgb(31, 31, 31);
+    color: white;
+    text-align: center;
+}
+footer p{
+    padding-top: 28px;
+    font-size:large
+}
+.card{
+    float: left;
+    margin-right:30px;
+    margin-left: 90px;
+
+}
+.card-text{
+    font-size: 15px;
+}
+.sticky-footer{
+    margin-top: 600px;
+}
+form{
+    width: 300px;
+}
+.text-center p{
+    margin-right: auto;
+    margin-left: auto;
+    font-size: large;
+    text-align: center;
+}
+#error3{
+    float: left;
+}
